@@ -9,3 +9,33 @@ The travel blog site includes a simple introduction page with a title some text 
 My intention making this travel blog website is to provide a website for people who are interested in travelling and looking for inspiration for where to travel to, they may be new to travelling or already be a frequent traveller. I have designed the site to be very simple easy to use and navigate with a simplistic design and user-friendly features.
 I have included links to Youtube videos, images, text and links to travel guides to provide the user with different ways of gathering travel tips and travel inspiration. 
 The user is also given an opportunity to be sent more travel information and tips by signing up to a travel newsletter.
+
+User stories:
+* As a user I want to discover new and interesting destinations.
+* As a user I want to be recommended destinations so I can decide where to travel to next.
+* As a user I want to be recommended destinations based on location.
+* As a user I want to create an experience in a foreign city.
+* As a user I want to browse activities to create a new experience.
+
+Wireframe/mock up 
+https://balsamiq.cloud/svjcmi0/p4or0hh/r2278
+
+# Features
+
+# Existing Features
+
+# Features Left to Implement
+
+# Technologies Used
+
+# Testing
+
+# Deployment
+
+# Credits
+
+## Content
+
+## Media
+
+## Acknowledgements
