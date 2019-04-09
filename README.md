@@ -1,8 +1,11 @@
 # Travel Blog
 
 Milestone Project: User-Centric Frontend Development – Code institute
+
 This is my travel blog website to demonstrate my frontend development skills to prospective employers, the site was created using HTML, CSS and Bootstrap 4.
 The travel blog site includes a simple introduction page with a title some text and links to other pages, then an image blurb going into more detail about the travel blog and the reason for the website, then onto another page where the viewer can explore travel tips and finally a page where the viewer can sign up to travel tips and a travel newsletter.
+
+Link to website 
 
 # UX
 
@@ -26,7 +29,8 @@ https://balsamiq.cloud/svjcmi0/p4or0hh/r2278
 
 # Features Left to Implement
 
-# Technologies Used
+# Technology
+This project was written in HTML5, CSS3, Bootstrap using Cloud9 IDE and I backed it up using Git and GitHub.
 
 # Testing
 
